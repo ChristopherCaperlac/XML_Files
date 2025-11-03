@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hotels
-   xmlns ="https://mrjasonp.github.io/cse445_a4/"
+   xmlns ="https://christophercaperlac.github.io/XML_Files"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="https://mrjasonp.github.io/cse445_a4/ Hotels.xsd">
+   xsi:schemaLocation="https://christophercaperlac.github.io/XML_Files Hotels.xsd">
 	<!-- Example Hotel -->
 	<Hotel>
 		<Name>Westin</Name>

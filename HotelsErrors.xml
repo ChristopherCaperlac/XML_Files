@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- (1) Misspelled Hotels as Hotel  -->
 <Hotel
-   xmlns ="https://mrjasonp.github.io/cse445_a4/"
+   xmlns ="https://christophercaperlac.github.io/XML_Files"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="https://mrjasonp.github.io/cse445_a4/ Hotels.xsd">
+   xsi:schemaLocation="https://christophercaperlac.github.io/XML_Files Hotels.xsd">
 	<!-- Example Hotel -->
 	<Hotel>
 		<Name>Westin</Name>
@@ -21,7 +21,7 @@
 	<Hotel Rating="4.1">
 		<Name>Las Vegas Hilton at Resorts World</Name>
 		<Phone>702-676-7000</Phone>
-		<!-- (2) Required attribute NearestAirport is missing from Address -->
+		<!-- (2) Required attribute NearestAirport is missing -->
 		<Address>
 			<Number>999</Number>
 			<Street>Resorts World Avenue</Street>
