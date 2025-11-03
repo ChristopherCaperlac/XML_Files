@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hotels
+   xmlns ="https://mrjasonp.github.io/cse445_a4/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="https://mrjasonp.github.io/cse445_a4/ Hotels.xsd">
+	<!-- Example Hotel -->
+	<Hotel>
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+		<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<!-- Five Hotels In Las Vegas -->
+	<Hotel Rating="4.1">
+		<Name>Las Vegas Hilton at Resorts World</Name>
+		<Phone>702-676-7000</Phone>
+		<Address NearestAirport="Harry Reid International Airport">
+			<Number>999</Number>
+			<Street>Resorts World Avenue</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89109</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>The Venetian Resort Las Vegas</Name>
+		<Phone>702-414-1000</Phone>
+		<Address NearestAirport="Harry Reid International Airport">
+			<Number>3355</Number>
+			<Street>S Las Vegas Blvd</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89109</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.8">
+		<Name>Rio Hotel And Casino</Name>
+		<Phone>702-777-7777</Phone>
+		<Phone>800-752-9746</Phone>
+		<Address NearestAirport="Harry Reid International Airport">
+			<Number>3700</Number>
+			<Street>W Flamingo Rd</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89103</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Best Western McCarran Inn</Name>
+		<Phone>702-798-5530</Phone>
+		<Phone>800-780-7234</Phone>
+		<Address NearestAirport="Harry Reid International Airport">
+			<Number>4970</Number>
+			<Street>Paradise Rd</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89119</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.8">
+		<Name>Days Inn by Wyndham Las Vegas Airport Near the Strip</Name>
+		<Phone>702-625-4315</Phone>
+		<Address NearestAirport="Harry Reid International Airport">
+			<Number>5075</Number>
+			<Street>Koval Ln</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89119</Zip>
+		</Address>
+	</Hotel>
+	<!-- Five Hotels Around Sky Harbor -->
+	<Hotel Rating="4.3">
+		<Name>SpringHill Suites by Marriott Phoenix Scottsdale</Name>
+		<Phone>480-716-1600</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>1500</Number>
+			<Street>N Scottsdale Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85257</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Holiday Inn Express And Suites Phoenix Airport by IHG</Name>
+		<Phone>602-453-9900</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>3401</Number>
+			<Street>E University Dr</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85034</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="2.4">
+		<Name>Motel 6 Phoenix, AZ - Midtown</Name>
+		<Phone>602-258-6271</Phone>
+		<Phone>602-244-1155</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>2725</Number>
+			<Street>N Black Canyon Hwy</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85009</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Radisson Hotel Phoenix Airport</Name>
+		<Phone>602-661-3160</Phone>
+		<Phone>283-064-0900</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>427</Number>
+			<Street>N 44th St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85008</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.6">
+		<Name>Drury Inn And Suites Phoenix Airport</Name>
+		<Phone>602-437-8400</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>3333</Number>
+			<Street>E University Dr</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85034</Zip>
+		</Address>
+	</Hotel>
+</Hotels>  
+
